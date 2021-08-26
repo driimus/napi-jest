@@ -1,0 +1,11 @@
+{
+  "name": "napi-jest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:driimus/napi-jest.git",
+  "author": "Cristi Petre <driimus@vivaldi.net>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
